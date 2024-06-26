@@ -1,4 +1,8 @@
-## Hi there 👋
+## Oi, me chamo Godoy 👋
+
+estudo na [alura](https://www.alura.com.br/)
+
+![](https://media1.tenor.com/m/WWuKr0zRdGYAAAAC/messi.gif)
 
 <!--
 **godoy0502/godoy0502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
